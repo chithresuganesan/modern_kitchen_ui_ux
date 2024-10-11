@@ -1,7 +1,9 @@
 <<<<<<< HEAD
+
 # modern_kitchen_ui_ux
-The Modern Kitchen UI/UX Design project aims to provide an interactive and visually pleasing representation of a modern kitchen environment. It's a single-page application that focuses on the user experience, including intuitive navigation, interactive elements, and a responsive layout that adapts to different screen sizes.
-=======
+
+# The Modern Kitchen UI/UX Design project aims to provide an interactive and visually pleasing representation of a modern kitchen environment. It's a single-page application that focuses on the user experience, including intuitive navigation, interactive elements, and a responsive layout that adapts to different screen sizes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 00fd6b2 (first commit)
+
+> > > > > > > 00fd6b2 (first commit)
+
+# Design Changes
