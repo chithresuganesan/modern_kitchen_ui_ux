@@ -1,4 +1,4 @@
-name: Deploy React App via FTP
+name: Deploy modern kitchen uiux  via FTP
 
 on:
   push:
@@ -25,8 +25,8 @@ jobs:
         run: npm install
 
       # Step 4: Build the React app
-      - name: Build the React app
-        run: npm run build
+      - name: Build the modern kitchen uiux app
+        run: CI=false npm run build
 
       # Step 5: Deploy files to the server using FTP
       - name: Deploy to cPanel Hosting via FTP
@@ -37,4 +37,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           port: ${{ secrets.FTP_PORT }}
           local-dir: ./build
-          server-dir: /public_html  # Adjust this path to match your hosting setup
+          server-dir: /mbdesignandrenovations.com  # Adjust this path to match your hosting setup
